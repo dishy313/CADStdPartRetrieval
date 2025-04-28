@@ -1,5 +1,5 @@
 # CADStdPartRetrieval
-This repo contains code implemented by Pytorch for the paper of Shengling Duan and Jiali Feng [CAD STANDARD PART RETRIEVAL BASED ON SKETCH USING TRIPLET-LOSS NETWORK].
+This repo contains code implemented by Pytorch for the paper of Shengling Duan and Jiali Feng and Yue Qi [Sketch-based CAD Standard Part Retrieval Following Mechanical Definitions].
 
 ## Environment
 - pytorch 2.0.1 with torchvision 0.15.2

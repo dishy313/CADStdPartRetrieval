@@ -6,6 +6,8 @@ This repo contains code implemented by Pytorch for the paper of Shengling Duan a
 - python 3.8.18
 - cuda 11.7
 
+## Dataset
+The dataset used in this project can be find at https://github.com/dishy313/CADStdParts-SketchesDataset.
 
 # Reference and Special Thanks
 
